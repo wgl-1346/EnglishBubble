@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+*.db
+vocab_data.json
+app_config.json
+*.log
+.DS_Store
+.vscode/
+.idea/
